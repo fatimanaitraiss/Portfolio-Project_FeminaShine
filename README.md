@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##FeminaShine##
 
 Clothing Store/Label eCommerce App
@@ -61,3 +62,6 @@ Optionally, access the admin panel for advanced management functionalities.
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
 
+=======
+
+>>>>>>> 9c3671aab8ffd168ce32e4554c9cc256a0fa0a3a
