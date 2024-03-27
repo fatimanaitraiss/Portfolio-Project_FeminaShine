@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 ##FeminaShine##
 
 Clothing Store/Label eCommerce App
 eCommerce Portfolio Project
 
 ## Introduction
-This Ecommerce Portfolio Project is a collaborative effort by Fatima Nait Raiss, Berrah Khaoula, and Ibtissam Lamin. The project aims to demonstrate our skills and proficiency in developing a fully functional e-commerce platform.
+This Ecommerce Portfolio Project is a collaborative effort by Fatima Nait Raiss and Ibtissam Lamin. The project aims to demonstrate our skills and proficiency in developing a fully functional e-commerce platform.
 
 
 ##Overview
